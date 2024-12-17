@@ -2,5 +2,4 @@
 porova
 
 provo ad aggiungereun commento dal computer locale!
-
-GIT
+[ git add origin ] cartella gia creata
